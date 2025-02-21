@@ -8,7 +8,7 @@ using System.Collections.Generic;
 public class SceneEditorWindow : EditorWindow
 {
     private Vector2 scrollPosition;
-    private Object sceneToAdd; // Campo para arrastrar escenas
+    private Object sceneToAdd;
 
     [MenuItem("Tools/Scene Manager Window")]
     public static void ShowWindow()
