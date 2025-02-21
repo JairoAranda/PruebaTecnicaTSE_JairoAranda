@@ -94,5 +94,9 @@ El `LocationManager` gestiona los permisos de ubicación en dispositivos Android
 - `StartLocationServices()`: Inicia los servicios de ubicación si están habilitados por el usuario.
 - `UpdatePermissionStatus(string status)`: Actualiza el texto en la UI con el estado del permiso.
 
+## Video de Demostración
+Puedes ver un video de demostración del proyecto en el siguiente enlace:
+[Ver Video](https://www.youtube.com/watch?v=aXt-LiG-RVI)
+
 ## Autor
 Desarrollado por **Jairo Aranda**.
