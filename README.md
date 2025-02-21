@@ -98,5 +98,8 @@ El `LocationManager` gestiona los permisos de ubicación en dispositivos Android
 Puedes ver un video de demostración del proyecto en el siguiente enlace:
 [Ver Video](https://www.youtube.com/watch?v=aXt-LiG-RVI)
 
+## Descarga APK
+Puedes descargar el apk para comprobar la gestion de los permisos: [Descarga](https://drive.google.com/file/d/1zMTYnP6X_EAktjvR9OWt-GUN6KZOCcgR/view?usp=sharing)
+
 ## Autor
 Desarrollado por **Jairo Aranda**.
